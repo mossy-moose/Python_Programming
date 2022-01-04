@@ -1,4 +1,4 @@
-# Socket_Programming
+# Python Programming
 A repo of scripts which utilize socket programming in python.
 
 Created on January 3, 2022
